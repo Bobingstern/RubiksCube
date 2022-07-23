@@ -269,7 +269,7 @@ function setup() {
   // pause_moves.mousePressed(function(){
   //   play = !true
   // });
-
+  easycam.scale_rotation = 0.0005
   
 
   addScreenPositionFunction();
